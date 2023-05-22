@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Исходники",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

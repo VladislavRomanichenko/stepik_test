@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "3e522cf26e0c9b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "255951ad9dd996d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f880ca6855f367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Работа с удаленным репозиторием, открытие аккаунта на GitHub, ветвление в GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "203538410f7ca9a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "023e9e3d0096eaa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "507b36e991949ffb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3797043b4217b38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98648d96c626ca34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a19eb6e0568c8867",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "76ea9edb3a8620bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e95239fd4a2d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e21aa9bde220d50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Работа с удаленным репозиторием, открытие аккаунта на GitHub, ветвление в GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a9afc85d49636bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Работа с удаленным репозиторием, открытие аккаунта на GitHub, ветвление в GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1412c668cb59a09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "db93854b98e9547a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Работа с удаленным репозиторием, открытие аккаунта на GitHub, ветвление в GIT.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "publish:Публикация изменений": false,
+      "workspaces:Пространства": false
+    }
+  },
+  "active": "72f880ca6855f367",
+  "lastOpenFiles": [
+    "Obsidian/Работа с Git.md",
+    "Obsidian/Тэги  в Git.md",
+    "Obsidian/Программирование.md",
+    "Obsidian/Работа с удаленным репозиторием, открытие аккаунта на GitHub, ветвление в GIT.md",
+    "Obsidian/Работа с локальным репозиторием и файлами в GIT и редактирование изменений.md",
+    "Obsidian/Прыгаем по коммитам (git checkout),  указатель HEAD, изменения в коммите и их отмена.md",
+    "Obsidian/Редактирование изменений GIT.md",
+    "Obsidian/Python.md",
+    "Obsidian/00 Науки и сферы деятельности.md",
+    "Obsidian/00 Задания и проекты.md",
+    "Obsidian/Obsidian.md",
+    "Obsidian/Без названия.md",
+    "Obsidian/Markdown.md",
+    "Obsidian/Теплица Obsidian.md",
+    "Obsidian/3д моделирование.md",
+    "Obsidian/Русский язык.md",
+    "Obsidian/Лингвистика и изучение языков.md",
+    "Obsidian/Английский язык.md",
+    "Obsidian/00 Гумманитарные науки.md",
+    "Obsidian/TensorFlow.md",
+    "Исходники/Pasted image 20230521124734.png",
+    "Исходники/Pasted image 20230521124639.png",
+    "Исходники/Pasted image 20230521124612.png",
+    "Исходники/Pasted image 20230521124554.png",
+    "Исходники/Pasted image 20230521124024.png",
+    "Исходники/Pasted image 20230521123932.png",
+    "Исходники/Pasted image 20230521123508.png",
+    "Исходники/Pasted image 20230521123506.png",
+    "Исходники/Pasted image 20230521123320.png",
+    "Исходники/Pasted image 20230521123256.png",
+    "Obsidian/Numpy.md",
+    "Obsidian/Матрицы Python.md",
+    "Obsidian/Методы в языке Python.md",
+    "Obsidian/Строковый тип данных.md",
+    "Obsidian/Методы строк.md",
+    "Obsidian/Числовые типы данных.md",
+    "Исходники-PDF-WORD/dfbrel-0.0.pdf",
+    "Исходники-PDF-WORD/команды в Git Bush.docx",
+    "Исходники/команды в Git Bush.docx",
+    "Исходники-PDF-WORD",
+    "Исходники/команды в Git Bush.html",
+    "Исходники/lu103884euxw.tmp",
+    "Исходники/lu103884euxv.tmp",
+    "Системы контроля версий ",
+    "Obsidian/cmake_clean_target.cmake",
+    "Шаблоны"
+  ]
+}
